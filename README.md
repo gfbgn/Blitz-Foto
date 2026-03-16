@@ -48,7 +48,7 @@ Blitz-Foto/
 │   └── manual.docx     <- Руководство пользователя
 │   
 └── tests               <- Тесты
-    ├── test_project.py     
+    ├── test_project.md     
 ```
 
 ### Установка и запуск приложения:
